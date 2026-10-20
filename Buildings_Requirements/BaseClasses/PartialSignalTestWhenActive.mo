@@ -27,7 +27,7 @@ protected
     "Block that outputs true"
     annotation (Placement(transformation(extent={{-80,-20},{-60,0}})));
 
-  Modelica_Requirements.LogicalBlocks.IntegerToProperty ItoP1
+  Requirements.LogicalBlocks.IntegerToProperty ItoP1
     "Integer to property conversion"
     annotation (Placement(transformation(extent={{44,-60},{64,-40}})));
   Buildings.Controls.OBC.CDL.Conversions.BooleanToInteger booToInt(

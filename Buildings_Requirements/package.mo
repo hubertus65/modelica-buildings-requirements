@@ -6,7 +6,7 @@ package Buildings_Requirements
 annotation(
   uses(
     Buildings(version = "14.1.0"),
-    Modelica(version = "4.0.0"),
+    Modelica(version = "4.1.0"),
     Requirements(version="0.12.1")));
 
 end Buildings_Requirements;
