@@ -7,6 +7,6 @@ annotation(
   uses(
     Buildings(version = "14.1.0"),
     Modelica(version = "4.1.0"),
-    Requirements(version="0.13.1")));
+    Requirements(version="0.13.2")));
 
 end Buildings_Requirements;
